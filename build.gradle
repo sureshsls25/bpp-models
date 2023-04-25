@@ -5,7 +5,6 @@ plugins {
 }
 
 group = 'com.ms.common.model'
-version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '11'
 
 apply plugin: 'java'
